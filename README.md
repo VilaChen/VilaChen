@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VilaChen
 - 👀 The code I wrote will be recorded here
-<!-- - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 For learning only
+<!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
 <!---
